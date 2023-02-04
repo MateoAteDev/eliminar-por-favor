@@ -1,0 +1,5 @@
+git init = Iniciar un nuevo repositorio; Crear la carpeta oculta .git y Solo se ejecuta una vez por proyecto.
+
+git status -s = Ver que archivos no han sido registrados
+
+git add . = Agregar todos los archivos para que esté pendiente de los cambios

@@ -1,0 +1,13 @@
+cd = Nos permite viajar en medio de carpetas.
+
+cd .. = Nos permite retroceder.
+
+dir = El comando lista el contenido del directorio o carpeta donde te encuentras, mostrando todas las subcarpetas o archivos que tiene. Con este comando podrás saber si el archivo que buscas está ahí o a qué subcarpeta navegar.
+
+cls = Limpia la consola de comando.
+
+mkdir o md = Sirve para crear una carpeta.
+
+move = Podemos mover archivos a otras carpetas.
+
+

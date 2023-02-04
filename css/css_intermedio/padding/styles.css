@@ -1,0 +1,18 @@
+.border {
+  border-style: solid;
+}
+.pt-50 {
+  padding-top: 50px;
+}
+.pl-50 {
+  padding-left: 50px;
+}
+.pt-total {
+  padding-top: 50px;
+  padding-left: 50px;
+  padding-bottom: 50px;
+  padding-right: 50px;
+}
+.p {
+  padding: 50px;
+}
