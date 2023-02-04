@@ -2,4 +2,8 @@ git init = Iniciar un nuevo repositorio; Crear la carpeta oculta .git y Solo se 
 
 git status -s = Ver que archivos no han sido registrados
 
-git add . = Agregar todos los archivos para que esté pendiente de los cambios
+git add . = Agregar todos los archivos para que esté pendiente de los cambios.
+
+git commit -m "primer commit" = Crear commit (fotografía del proyecto en ese momento).
+
+git log --oneline =  Muestra la lista de commit del mas reciente al más antigüo
